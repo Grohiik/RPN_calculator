@@ -1,0 +1,21 @@
+# Compiled class
+*.class
+
+# directories
+target
+.idea
+.settings
+.vscode
+out
+
+# files
+*.iml
+.project
+.classpath
+*.vpp.bak*
+*.vpp.lck
+*.zip
+
+# system files
+.DS_Store
+*.icloud
